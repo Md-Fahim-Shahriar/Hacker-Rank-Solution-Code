@@ -1,0 +1,5 @@
+int_1 = int(input())
+int_2 = int(input())
+int_3 = int(input())
+print(int_1**int_2)
+print(pow(int_1, int_2, int_3))

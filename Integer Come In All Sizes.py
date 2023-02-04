@@ -1,0 +1,7 @@
+n_1 = int(input())
+n_2 = int(input())
+n_3 = int(input())
+n_4 = int(input())
+x = pow(n_1, n_2)
+y = pow(n_3, n_4)
+print(x+y)

@@ -1,0 +1,5 @@
+int_1 = int(input())
+int_2 = int(input())
+print(int(int_1/int_2))
+print(int_1%int_2)
+print(divmod(int_1, int_2))
